@@ -147,7 +147,7 @@ header.fixed #logo {
     color: #ccc;
   }
 
-  /*Блок с вооружением (я заебался)*/
+  /*Блок с вооружением*/
 
 #main {
   padding: 100px 20%;
@@ -183,7 +183,7 @@ header.fixed #logo {
 #main h2 {font-size: 3em}
 #main span {color: #a0a0a0}
 
-/*Блок с арсеналом (я заебался 999x)*/
+/*Блок с арсеналом*/
 
 #overview {
   float: left;
@@ -237,7 +237,7 @@ header.fixed #logo {
 }
 
 
-/*Блок с контактами (Я ЗАЕБАЛСЯ ПРОСТО ПИЗДЕЦ)*/
+/*Блок с контактами*/
 
 #contacts {
   width: 100%;
